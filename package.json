@@ -1,0 +1,26 @@
+{
+  "name": "grunt-learning",
+  "version": "0.0.1",
+  "description": "study grunt",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/benben7361/learngrunt.git"
+  },
+  "keywords": [
+    "grunt"
+  ],
+  "author": "Eric",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/benben7361/learngrunt/issues"
+  },
+  "homepage": "https://github.com/benben7361/learngrunt#readme",
+  "devDependencies": {
+    "grunt": "^1.0.2",
+    "grunt-contrib-concat": "^1.0.1"
+  }
+}
